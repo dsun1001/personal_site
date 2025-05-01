@@ -8601,14 +8601,12 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
-body {
-	margin: 0;
-	font-family: Arial, Helvetica, sans-serif;
-}
 
 .topnav {
 	overflow: hidden;
 	background-color: #333;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif
 }
 
 .topnav a {

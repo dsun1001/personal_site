@@ -340,7 +340,7 @@
 
 })(jQuery);
 
-function myFunction() {
+function topNav() {
 	var x = document.getElementById("myTopnav");
 	if (x.className === "topnav") {
 	  x.className += " responsive";
